@@ -7,7 +7,7 @@ export const window = {
     resizable: false,
     maximizable: false,
     fullscreenable: false,
-    title: 'Aurora Launcher',
+    title: 'Enchanted Isles',
 };
 
 export const api = {
